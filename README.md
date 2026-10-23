@@ -51,3 +51,8 @@ The application will be accessible at `http://localhost:3000`.
 
 ## Architecture Note
 This project was implemented following modern best practices, including explicit separation of concerns between backend Models/Controllers (Routes) and Frontend UI Context/Pages.
+## Documentation Updates
+
+- Reviewed the project overview and feature descriptions.
+- Improved the documentation for easier project setup and understanding.
+- Organized project information for future contributors.                                                                                                                                                                                                                                                                                                                                                                                  
